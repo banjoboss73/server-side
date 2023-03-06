@@ -1,0 +1,36 @@
+h1 {margin-left: 50px;}
+
+#first {
+    width: 100px; 
+    float:left; 
+    height:100px
+}
+
+#second {
+    width: 100px; 
+    float:left; 
+    height:100px
+}
+
+#third {
+    width: 100px; 
+    float:left; 
+    height:100px
+}
+
+#fourth {
+    width: 100px; 
+    float:left; 
+    height:100px
+}
+
+#fifth {
+    width: 100px; 
+    float:left; 
+    height:100px
+}
+
+img {
+    height: auto;
+    width: 50px;
+}

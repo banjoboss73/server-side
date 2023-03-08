@@ -5,11 +5,17 @@ h1 {margin-left: 50px;}
     float:left; 
     height:100px
 }
+#first a{
+    color: red;
+}
 
 #second {
     width: 100px; 
     float:left; 
     height:100px
+}
+#second a{
+    color: red;
 }
 
 #third {
@@ -17,11 +23,17 @@ h1 {margin-left: 50px;}
     float:left; 
     height:100px
 }
+#third a{
+    color: red;
+}
 
 #fourth {
     width: 100px; 
     float:left; 
     height:100px
+}
+#fourth a{
+    color: red;
 }
 
 #fifth {
@@ -29,10 +41,13 @@ h1 {margin-left: 50px;}
     float:left; 
     height:100px
 }
+#fifth a{
+    color: red;
+}
 
 img {
     height: auto;
-    width: 70px;
+    width: 90px;
 }
 
 /* Add a black background color to the top navigation bar */
